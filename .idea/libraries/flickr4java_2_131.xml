@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flickr4java-2.131">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/Outside Libs/flickr4java-2.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
